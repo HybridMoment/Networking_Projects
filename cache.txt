@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Date: Fri, 15 Nov 2019 03:54:15 UTC
+Last-Modified: Fri, 15 Nov 2019 03:54:10 GMT
+Content-Length: 74
+text/html; charset=UTF-8
+<html><p>First Line<br />Second Line<br/>Third Line<br />COMPLETE<p><html>
